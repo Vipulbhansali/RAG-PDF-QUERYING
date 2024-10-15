@@ -6,4 +6,8 @@ torch
 transformers
 faiss-cpu  # For vector storage, can be replaced with faiss-gpu if using GPU
 sentence-transformers  
-flask  
+flask
+PyPDF2
+fuzzywuzzy[speedup]
+pinecone-client
+
